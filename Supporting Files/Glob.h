@@ -1,9 +1,5 @@
 //
-//  Glob.h
-//  Glob
-//
 //  Created by Andrey Ostanin on 21/07/2017.
-//  Copyright © 2017 com.github.bouke. All rights reserved.
 //
 
 //! Project version number for Glob.
